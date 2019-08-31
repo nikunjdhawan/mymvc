@@ -1,12 +1,2 @@
-bin/Debug/netcoreapp2.2/MyMVC.Views.dll
-bin/Debug/netcoreapp2.2/MyMVC.Views.dll
-bin/Debug/netcoreapp2.2/MyMVC.Views.dll
-obj/Debug/netcoreapp2.2/MyMVC.csprojAssemblyReference.cache
-obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
-obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
-obj/Debug/netcoreapp2.2/MyMVC.Views.pdb
-obj/Debug/netcoreapp2.2/MyMVC.Views.dll
-obj/Debug/netcoreapp2.2/MyMVC.csproj.CoreCompileInputs.cache
-obj/Debug/netcoreapp2.2/MyMVC.assets.cache
-bin/Debug/netcoreapp2.2/MyMVC.Views.pdb
-bin/Debug/netcoreapp2.2/MyMVC.Views.dll
+bin/*.*
+obj/*.*
